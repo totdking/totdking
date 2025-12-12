@@ -7,3 +7,9 @@ Totdking is an independent security researcher with expertise in rust based syst
   - discord : @totdking
 
 **Audit portfolio**: [here](https://github.com/totdking/audit-portfolio).
+
+## Projects:
+- Secp256k1 elliptic curve math engine : [here](https://github.com/totdking/elliptic_curve_math_engine/tree/totdking)
+
+## Certification: 
+- Participated in the **_rust for bitcoin_** 2025 edition with capstone project : [elliptic curve engine](https://github.com/totdking/elliptic_curve_math_engine/tree/totdking)
