@@ -1,5 +1,5 @@
-# About totdking
-Totdking is an independent security researcher with 1 year+ experience in securing protocols in evm, rust based systems for defi (solana, cosmos, stellar),DLT( L1 and L2 infra), Zero knowledge Proofs.
+# About 
+Totdking is an independent security researcher with 1 year+ experience in securing protocols in evm, zkvm's, cross chain protocols, defi protocols and DLT's across multi chains.
 
 ## Contact
   - x: [totdking](x.com/totdking)
