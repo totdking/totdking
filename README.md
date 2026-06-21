@@ -5,6 +5,7 @@ Totdking is an independent security researcher with 1 year+ experience in securi
   - x: [totdking](x.com/totdking)
   - tg: [totdking](t.me/totdking)
   - discord : @totdking
+  - medium : [konquest](https://medium.com/@timileyindgreat02)
 
 **Audit portfolio**: [here](https://github.com/totdking/audit-portfolio).
 
