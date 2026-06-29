@@ -1,5 +1,5 @@
-# About 
-Totdking is an independent security researcher with 1 year+ experience in securing protocols in evm, zkvm's, cross chain protocols, defi protocols and DLT's across multi chains.
+# About
+Hi I'm Timmy, a web3 security researcher. I like to find bugs in web3 applications and I like cryptography.
 
 ## Contact
   - x: [totdking](x.com/totdking)
